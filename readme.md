@@ -11,3 +11,4 @@ Lesson 3 Completed,  lots of bugs but now hope it goes smoothly.
 Lesson 4 Completed
 Lesson 5 done,  this is very messy
 Lesson 6 Thinking in components: Completed, but now sure what I am doing yet
+Lesson 7  Organizing and Style : Done,  Moved and renamed files
